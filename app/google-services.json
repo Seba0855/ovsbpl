@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "650924917220",
+    "firebase_url": "https://soundboardy.firebaseio.com",
+    "project_id": "soundboardy",
+    "storage_bucket": "soundboardy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650924917220:android:861c593e11327cee",
+        "android_client_info": {
+          "package_name": "violentapplications.overpowsoundboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650924917220-f8uu64k3cuk6mca9pg5991npk8ks4jdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKgqoao1V9skmdvkjqCHHAfCoxK_Z_aHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
